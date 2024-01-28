@@ -2,4 +2,7 @@ Hello World.
 Good Morning and Welcome to session.
 Added a function Feature2(){
 //Do somthing to implement feature2
+//one line is added here to fix Bug1.
 }
+
+Bug1 is fixed with this new line.
